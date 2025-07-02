@@ -37,6 +37,7 @@ Stream your music on 12+ platforms:
 - Audiomack
 - Boomplay
 - Pandora
+  
 
 ### 📱 Mobile & Desktop Streams
 - Simulate **real listener behavior** across PC and Android/iOS
@@ -45,8 +46,8 @@ Stream your music on 12+ platforms:
 ### 🧠 AI Smart Tools
 - ChatGPT integration for:
   - Automatic playlist generation
-  - AI-generated comments and engagement replies
-  - Personalized bulk messaging
+  - AI-generated playlists
+  - Tiktok comments and engagement replies
 
 ### ⚙️ Bulk Account Creation & Management
 - Create and manage free or premium music accounts in bulk
